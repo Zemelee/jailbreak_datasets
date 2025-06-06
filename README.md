@@ -39,11 +39,17 @@
 ## 📬 链接
 
 📺 视频教程：[BV1zSJgztEKG](https://www.bilibili.com/video/BV1zSJgztEKG)
+
 🤗 Hugging Face：[qwen2.5-jailbreak](https://huggingface.co/zemelee/qwen2.5-jailbreak)
+
 📧 E-mail: `zemel@stu.sicnu.edu.cn`  
+
 🐱 GitHub: [https://github.com/zemelee](https://github.com/zemelee)
-🤖 线上体验：http://test.sugarblack.top
+
+🤖 线上体验：[sugarblack](http://test.sugarblack.top)
+
 😚 微信公众号： 做实验的研究牲
+
 ---
 
 ## ⚖️ 免责声明
