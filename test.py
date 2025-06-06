@@ -1,7 +1,8 @@
 import os
 from transformers import AutoTokenizer, AutoModelForCausalLM
-os.environ["http_proxy"] = "http://127.0.0.1:7890"
-os.environ["https_proxy"] = "http://127.0.0.1:7890"
+# 如果本地有可用代理才启用proxy
+# os.environ["http_proxy"] = "http://127.0.0.1:7890"
+# os.environ["https_proxy"] = "http://127.0.0.1:7890"
 # 设置模型名称和本地保存路径
 model_name = "zemelee/qwen2.5-jailbreak"
 local_model_path = "./qwen2.5-jailbreak"
