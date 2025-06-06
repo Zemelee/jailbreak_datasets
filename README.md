@@ -37,8 +37,13 @@
 
 
 ## 📬 链接
-视频教程：[BILIBILI](https://www.bilibili.com/video/BV1zSJgztEKG)
+
+📺 视频教程：[BILIBILI](https://www.bilibili.com/video/BV1zSJgztEKG)
+
+🤗 Hugging Face：[Hugging Face](https://huggingface.co/zemelee/qwen2.5-jailbreak)
+
 📧 E-mail: `zemel@stu.sicnu.edu.cn`  
+
 🐱 GitHub: [https://github.com/zemelee](https://github.com/zemelee)
 
 ---
