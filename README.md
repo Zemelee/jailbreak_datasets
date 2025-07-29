@@ -64,7 +64,7 @@
 
 🐱 GitHub: [https://github.com/zemelee](https://github.com/zemelee)
 
-🤖 线上体验：[sugarblack](http://test.sugarblack.top)
+🤖 线上体验：[sugarblack](http://test.sugarblack.top/index.html)
 
 😚 微信公众号： 做实验的研究牲
 
